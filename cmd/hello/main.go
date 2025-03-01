@@ -15,7 +15,7 @@ const (
 	host     = "localhost"
 	port     = 5432
 	user     = "postgres"
-	password = "postgres"
+	password = "admIN_1"
 	dbname   = "sandbox"
 )
 
